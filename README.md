@@ -18,11 +18,3 @@ In this project, we harness the power of different machine learning algorithms, 
 ## About the Iris Dataset
 
 We base our analysis and predictions on the famous Iris dataset. This dataset is ideal for machine learning beginners due to its simplicity and clarity.
-
-## Getting Started
-
-1. Clone this repository:
-
-   ```bash
-   git clone https://github.com/yourusername/iris-flower-classification.git
-   cd iris-flower-classification
